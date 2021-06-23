@@ -1,7 +1,5 @@
 /*
-* Assignment 3
-* Student Name: Lin Li
-* Student ID: 40044486
+* Lin Li
 */
 
 This program uses 2 classes (Matrix2x2.h, Matrix2x2.cpp) and a driver.cpp file to use methods and overloaded operators to implement the Mat2x2 ADT described in assignment 3
