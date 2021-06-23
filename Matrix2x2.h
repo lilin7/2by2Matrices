@@ -1,7 +1,7 @@
 ﻿/*
 * @ClassName: Matrix2x2.h
 * @Function: header file of Matrix2x2.cpp, using methods and overloaded operators to implement the Mat2x2 ADT described in assignment 3
-* @author: Lin Li 40044486
+* @author: Lin Li 
 * @version: 1.0
 * @date: Jul 14, 2018
 */
