@@ -1,7 +1,7 @@
 /*
 * @ClassName: Assignment_3_Rev_1_Test_Driver.cpp
 * @Function: Driver program to test Matrix2x2 Class in assignment 3
-* @author: Lin Li 40044486
+* @author: Lin Li
 * @version: 1.0
 * @date: Jul 14, 2018
 */
