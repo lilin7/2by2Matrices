@@ -1,7 +1,7 @@
 /*
 * @ClassName: Matrix2x2.cpp
 * @Function: Class using methods and overloaded operators to implement the Mat2x2 ADT described in assignment 3
-* @author: Lin Li 40044486
+* @author: Lin Li
 * @version: 1.0
 * @date: Jul 14, 2018
 */
@@ -376,7 +376,7 @@ bool Matrix2x2::isSymmetric(){
 }
 
 /*
-* M is similar to M¡ä if det(M) = det(M¡ä) and trace(M) = trace(M¡ä)
+* M is similar to MÂ¡Ã¤ if det(M) = det(MÂ¡Ã¤) and trace(M) = trace(MÂ¡Ã¤)
 * @param
 * @return bool
 */
